@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "designplox",
+    "link": "designplox",
+    "submenu": []
+  },
+  {
+    "id": 2,
+    "title": "artists",
+    "link": "artists",
+    "submenu": [
+      {
+        "id": 1,
+        "title": "get your wings",
+        "link": "get-your-wings",
+        "submenu": [
+          {
+            "id": 1,
+            "title": "get your wings",
+            "link": "hello-world",
+            "submenu": []
+          },
+          {
+            "id": 2,
+            "title": "hotel california",
+            "link": "hotel-california"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "hotel california",
+        "link": "hotel-california"
+      },
+      {
+        "id": 3,
+        "title": "get your wings",
+        "link": "get-your-wings"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "albums",
+    "link": "albums",
+    "submenu": [
+      {
+        "id": 1,
+        "title": "get your wings",
+        "link": "get-your-wings",
+        "submenu": [
+          {
+            "id": 1,
+            "title": "get your wings",
+            "link": "hello-world",
+            "submenu": [
+              {
+                "id": 1,
+                "title": "hello world",
+                "link": "hello-world",
+                "submenu": []
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "hotel california",
+            "link": "hotel-california",
+            "submenu": [
+              {
+                "id": 1,
+                "title": "hello world",
+                "link": "hello-world",
+                "submenu": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "hotel california",
+        "link": "hotel-california",
+        "submenu": [
+          {
+            "id": 1,
+            "title": "hello world",
+            "link": "hello-world",
+            "submenu": [
+              {
+                "id": 1,
+                "title": "hello world",
+                "link": "hello-world",
+                "submenu": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "physical graffiti",
+        "link": "physical-graffiti",
+        "submenu": [
+          {
+            "id": 1,
+            "title": "houses of the holy",
+            "link": "houses-of-the-holy",
+            "submenu": []
+          },
+          {
+            "id": 2,
+            "title": "in my time of dying",
+            "link": "in-my-time-of-dying",
+            "submenu": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "songs",
+    "link": "songs",
+    "submenu": []
+  },
+  {
+    "id": 5,
+    "title": "genres",
+    "link": "genres",
+    "submenu": []
+  },
+  {
+    "id": 6,
+    "title": "settings",
+    "link": "settings",
+    "submenu": []
+  }
+]
